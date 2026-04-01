@@ -52,8 +52,8 @@ Tengo experiencia trabajando con:
 - Programación con **C++**, JavaScript y tecnologías web
 
 ## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marbin891&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marbin891&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marbin891&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marbin891&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Contacto
 - Email: marbin82101@outlook.com
