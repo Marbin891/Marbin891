@@ -40,18 +40,6 @@ Actualmente trabajo en **InfinetCloud**, donde participo en el desarrollo, mejor
 ![Servers](https://img.shields.io/badge/Servidores-1F2937?style=for-the-badge)
 ![Networks](https://img.shields.io/badge/Redes-0EA5E9?style=for-the-badge)
 
-## 📌 Enfoque profesional
-Me especializo en integrar distintas áreas de la tecnología para crear soluciones completas, desde el desarrollo de aplicaciones hasta la configuración de entornos, servidores, redes y herramientas orientadas a optimizar procesos.
-
-Tengo experiencia trabajando con:
-- Desarrollo de software y aplicaciones personalizadas
-- Soluciones empresariales con **FileMaker**
-- Configuración y administración de **servidores**
-- Implementación y soporte en **redes**
-- Configuración y despliegue con **Nginx**
-- Desarrollo de proyectos interactivos con **Unity**
-- Programación con **C++**, JavaScript y tecnologías web
-
 ## 📊 Estadísticas
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marbin891&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marbin891&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
